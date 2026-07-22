@@ -110,19 +110,19 @@ Why should you one pull? The runs are around 1 second faster per wave which adds
 
 ## Non-Reinforcment Modifier (Tougher Enemies, Reduced Ability Duration)
 
-6.a look at this spot before the enemies spawn
+6. look at this spot before the enemies spawn
 ![Non rein manip](media/procedure/khora/non_rein_manip.png)
-6.b either when the enemies are about to spawn, or when they do, cast cage and sling yourself while the cage is being placed to cancel the animation
+7. either when the enemies are about to spawn, or when they do, cast cage and sling yourself while the cage is being placed to cancel the animation
 
 ## Reinforcment Modifier
 
-6.a cast your cage when the names disappear
-6.b before the enemies spawn you have to Jump upwards and slightly to the right and aimglide looking around where the crosshair is placed. (or you can move right and jump upwards while aimgliding)
+6. cast your cage when the names disappear
+7. before the enemies spawn you have to Jump upwards and slightly to the right and aimglide looking around where the crosshair is placed. (or you can move right and jump upwards while aimgliding)
 ![rein manip](media/procedure/khora/rein_manip.png)
 
-7. wait for the nidus to pull the enemies into the cage, and once you see them infront of you start attacking
-8. make sure to chop the bodies then sling
-9. repeat steps 5-8 until the run ends
+8. wait for the nidus to pull the enemies into the cage, and once you see them infront of you start attacking
+9. make sure to chop the bodies then sling
+10. repeat steps 5-9 until the run ends
 
 ---
 
