@@ -55,6 +55,12 @@ Why should you one pull? The runs are around 1 second faster per wave which adds
 
 ![Ripkas build](media/builds/nidus_ripkas_build.png)
 
+### Notes
+
+- Glaxion riven and full build are optional but allows for less delays between waves, resulting in faster waves
+- Glaxion riven is fr sc -harmless stat (no riven runs catalyzer link)
+- Ripkas riven is cc ic md -harmless stat (no riven runs corrupt charge)
+
 ---
 
 # Nidus Procedure
@@ -95,6 +101,11 @@ Why should you one pull? The runs are around 1 second faster per wave which adds
 ### Prisma Skana
 
 ![Skana build](media/builds/khora_skana_build.png)
+
+### Notes
+
+- if you don't have the capacity to fit both sacrificial steel and pressure run galvanized pressure and primed pressure point instead
+- your skana build will most likely change depending on your riven
 
 ---
 
