@@ -11,6 +11,8 @@
 - [Archon shards](#archon-shards)
 - [Glaxion vandal](#glaxion-vandal)
 - [Ripkas](#ripkas)
+- [Aksondal](#aksondal)
+- [Aksondal Guide](#aksondal-guide)
 
 ## [Nidus Procedure](#nidus-procedure-1)
 
@@ -21,6 +23,7 @@
 - [Khora Build](#build-1)
 - [Archon shards](#archon-shards-1)
 - [Prisma Skana](#prisma-skana)
+
 
 ## [Khora Procedure](#khora-procedure-1)
 
@@ -64,12 +67,18 @@ a modifier can be one of 3 randomly picked options that change a run, you can se
 
 ![Ripkas build](media/builds/nidus_ripkas_build.png)
 
+### Aksondal
+
+![Aksondal build](media/builds/nidus_aksondal_build.png)
+
+
 ### Notes
 
 - Glaxion riven and full build are optional but allows for less delays between waves, resulting in faster waves
 - Glaxion riven is fr sc -harmless stat (no riven runs catalyzer link)
 - Ripkas riven is cc ic md -harmless stat (no riven runs corrupt charge)
-
+- Aksondal is optional, mostly used for nidus or khora who are worse at the strategy and cant insta flick, this will be explained upon further in the guide
+- Aksondal riven is mc fr -harmless stat (no riven drops the riven for lethal torrent and drops primed quickdraw for tainted clip)
 ---
 
 # Nidus Procedure
@@ -78,34 +87,33 @@ a modifier can be one of 3 randomly picked options that change a run, you can se
 2. once you pull the enemies to the bridge, heavy slam them
 3. grab health orb over here with your glaxion, you may have to jump slightly towards it
 ![Health orb](media/procedure/nidus/health_orb.JPG)
-4. move into the left side of the bridge (where khora normally stands)
+4. move onto this lamp shown below
 5. look at this afk spot to manipulate the enemy spawns
-![Afk spot](media/procedure/nidus/afk_spot.png)
-
-## Non-Rein
-
-6. once all enemies have spawned, turn around and throw your larva here if you hit your khora it doesn't matter, in fact it may be better as you get better line of sight on the enemies
-![Larva spot](media/procedure/nidus/larva_spot.png)
-7. pop your lake larva the second you see that the farthest enemy  from the lake spot starts moving which is almost always these spawns circled in purple, not doing this will cause the enemies to either not have enough momentum or too much momentum. If these enemies do not spawn you can insta pop
-![Spawn map](media/procedure/nidus/spawn_map.png)
-8. after popping your larva prime the enemies using your glaxion, then jump towards the endo spot and grab the endo using mag's pull
-9. repeat steps 4-8 until the match ends
-
-## Rein
-
-6. once all enemies have spawned, turn around and throw your larva here if you hit your khora it doesn't matter, in fact it may be better as you get better line of sight on the enemies
+![Afk spot](media/procedure/nidus/afk_spot.jpg)
+6. move to the center of the lamp and look down and sling yourself so you dont die
+6.a if you're insta flicking you'll want to move yourself to the right part of the lamp to prevent hitting the lamp on your flicks
+7. once all enemies have spawned, turn around and throw your larva here if you hit your khora it doesn't matter, in fact it may be better as you get better line of sight on the enemies. (While turning and casting is okay, it causes a higher chance of enemies walking off, which causes missing enemies. Ideally, you would look at the afk spot, when enemies spawn press 2 then flick your mouse to the spot, as shown in the example run)
 ![Larva spot](media/procedure/nidus/larva_spot_rein.png)
-7. pop your lake larva the second you see that the farthest enemy  from the lake spot starts moving which is almost always these spawns circled in black, not doing this will cause the enemies to either not have enough momentum or too much momentum. If these enemies do not spawn you can insta pop
+8. pop your lake larva the second you see that the farthest enemy  from the lake spot starts moving which is almost always these spawns circled in black, not doing this will cause the enemies to either not have enough momentum or too much momentum. If these enemies do not spawn you can insta pop
 ![Spawn map](media/procedure/nidus/spawn_map_rein.png)
-8. after popping your larva prime the enemies using your glaxion, then jump towards the endo spot and grab the endo using mag's pull
-9. repeat steps 4-8 until the match ends
+9. after popping your larva prime the enemies using your glaxion, then jump towards the endo spot and grab the endo using mag's pull
+10. repeat steps 5-9 until the match ends
 
 ---
 
+### Aksondal Guide
+
+- Aksondal is used to prevent enemies from walking off so enemies can be pulled easier
+1. after your khora kills the enemies start shooting your aksondal until you have 1 bullet left
+2. when the enemies spawn, press r to reload (triggering the aksondal passive), then cast larva in the spot shown below
+![Aksondal spot](media\procedure\nidus\aksondal_spot.jpg)
+3. after the khora kills the enemies reload the aksondal to get back the entire magazine
+4. repeat steps 1-3
+
 # Nidus Gameplay
 
-- [Non Rein](https://medal.tv/games/warframe/clips/n6PDmmMB65JYWu8dA?invite=cr-MSxuYjQsMTA3MDE3MzE4)
-- [Rein](https://medal.tv/games/warframe/clips/mWSOJGExModVEf0pC?invite=cr-MSxtWGosMTA3MDE3MzE4)
+- [Example 1](https://medal.tv/games/warframe/clips/nIamITs6Xo2f9Wrn8?invite=cr-MSxsVDcsMTA3MDE3MzE4)
+- [Aksondal](https://medal.tv/games/warframe/clips/nLUQDFMvSG4ahJGp8?invite=cr-MSxCSE0sMTA3MDE3MzE4)
 
 ---
 
@@ -135,27 +143,12 @@ a modifier can be one of 3 randomly picked options that change a run, you can se
 1. do rollout like normal
 2. once you land on the bridge and place cage, go op, press 2 then sling and leave operator
 3. kill the enemies when the appear in cage
-
-## Non-Reinforcement Modifier (Tougher Enemies, Reduced Ability Duration)
-
-4. grab the health orb in the lake area and move to this spot
-![Afk spot](media/procedure/khora/afk_spot.png)
-5.  once the names disappear sling yourself and cast vazarin 2, either place the ability on your warframe  so the location the enemies are pulled to is elevated, or cast is where you put the cage. Tip: dont look directly down or straight while placing it, stand to the left or right of the sideways pole while still being on it, and cast it at that angle
-![Vaz 2 spot](media/procedure/khora/vazarin_2_spot.png)
-6. look at this spot before the enemies spawn
-![Non rein manip](media/procedure/khora/non_rein_manip.png)
-7. either when the enemies are about to spawn, or when they do, cast cage and sling yourself while the cage is being placed to cancel the animation
-
-## Reinforcement Modifier
-
 4. grab the health orb in the lake area and move to this spot
 ![Afk spot](media/procedure/khora/afk_spot_rein.jpg)
-5.  once the names disappear sling yourself, cast vazarin 2 in the middle of the spot
+5. once the names disappear sling yourself, cast vazarin 2 in the middle of the spot
 6. place cage
-7. jump into the air, and hold aim to aim glide, look at this spot before the enemies spawn, once you land stand still to give your nidus the option of hitting you with larva (like seen in the rein example clip)
-![Rein manip](media/procedure/khora/rein_manip.png)
-
-
+7. look in the green box on reinforcement modifier and the red box on non rein  
+![Manip](media/procedure/khora/manip.png)
 8. wait for the nidus to pull the enemies into the cage, and once you see them in front of you start attacking
 9. make sure to chop the bodies then sling
 10. repeat steps 5-9 until the run ends
@@ -164,8 +157,8 @@ a modifier can be one of 3 randomly picked options that change a run, you can se
 
 # Khora Gameplay
 
-- [Non Rein](https://medal.tv/games/warframe/clips/n5auIyokvGT-2mRcl?invite=cr-MSw3RFQsMjE5NDE4MjMx)
-- [Rein](https://medal.tv/games/warframe/clips/ndbpbogNqTdlp3gvA?invite=cr-MSxVODMsNTUyNDUxNzkz)
+- [Example 1](https://www.youtube.com/watch?v=C9IhJR7qRZY)
+- The rollout done here is optional as it saves time, but requires more coordination and a higher chance you get one tapped on rollout
 
 # Credits
 
@@ -173,9 +166,7 @@ a modifier can be one of 3 randomly picked options that change a run, you can se
 
 __**-oyo-**__ 
   Created guide template and inspired me to upload a guide to github.
-__**Obliterate**__
+__**Obliterate**__ , __**ZGB**__ , __**Psychocat**__ , __**Kirbo**__
   Helped test and brainstorm ideas for this strategy.
-__**CurvyKirby**__
-  Helped test and brainstorm ideas for this strategy.
-__**The One Pull Dream V1**__
+
   https://discord.com/channels/1042561095094763644/1291677621914177567
