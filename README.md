@@ -104,7 +104,7 @@ a modifier can be one of 3 randomly picked options that change a run, you can se
 
 - Aksondal is used to prevent enemies from walking off so enemies can be pulled easier
 1. after your khora kills the enemies start shooting your aksondal until you have 1 bullet left
-2. when the enemies spawn, press r to reload (triggering the aksondal passive), then cast larva in the spot shown below
+2. when the enemies spawn, shoot to empty the magazine which forces you to reload (triggering the aksondal passive), then cast larva in the spot shown below
 ![Aksondal spot](media/procedure/nidus/Aksondal_spot.jpg)
 3. after the khora kills the enemies reload the aksondal to get back the entire magazine
 4. repeat steps 1-3
